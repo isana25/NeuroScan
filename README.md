@@ -41,6 +41,11 @@ Custom CNN built with TensorFlow/Keras:
 
 ---
 
+## 🖼 Demo
+![App Screenshot](Brain_Tumor_CNN.png)
+
+---
+
 ## 📌 Future Enhancements
 - Add Grad-CAM for explainability  
 - Include multi-class tumor classification  
