@@ -36,9 +36,8 @@ Custom CNN built with TensorFlow/Keras:
 
 ---
 
-## 🚀 Try It Live (Optional)
-If deployed, add:
-**👉 [Try the app on Hugging Face Spaces](#)**
+## 🚀 Google Colab Notebook
+**👉 [Try the Colab Notebook](https://colab.research.google.com/drive/1ZKml7FB6UvHkXaF8tQqXkJUexhXtXX65?usp=sharing)**
 
 ---
 
